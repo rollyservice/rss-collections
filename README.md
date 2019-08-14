@@ -19,4 +19,4 @@ Rolly RSS 源分享
 
 ## 友情链接
 
-- [RSS Hub](https://docs.rsshub.app/)
+- [RSS Hub](https://docs.rsshub.app/) 是一个轻量、易于扩展的 RSS 生成器, 可以给任何奇奇怪怪的内容生成 RSS 订阅源
