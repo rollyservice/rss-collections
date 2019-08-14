@@ -3,7 +3,7 @@ Rolly RSS 源分享
 
 ## 分享内容详见 Wiki
 
-[Wiki在这里](https://gitee.com/rolly_official/rss-collections/wikis/Home)
+[Wiki在这里](https://github.com/rollyservice/rss-collections/wiki)
 
 ## 如何分享
 
